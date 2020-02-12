@@ -2,7 +2,7 @@
 
 Data analysis scripts and files for a manuscript investigating...
 
-Insert reference to paper here. 
+Full manuscript can be found here..  
 
 Additional data and code can be found here...
 
